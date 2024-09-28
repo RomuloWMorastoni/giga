@@ -1,8 +1,15 @@
+.menu a {
+    text-decoration: none;
+}
+
 .menu {
     background-color: tomato;
     display: flex;
     justify-content: center;
-       
+    gap: 100px;
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-size: 16;
 }
 
 .banner {
